@@ -1,0 +1,42 @@
+.jumbotron {
+	background-color: #98FB98;
+}
+
+#brandfont {
+	font-family: 'Inconsolata', monospace;
+}
+
+#titlefont {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#headshot {
+	max-width: 335px;
+}
+
+#blog-button {
+	width: 60%;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+#adjust-icons {
+	padding: 20px 20px 20px 40px;
+}
+
+#adjust-icons a {
+	color: black;
+}
+
+#repo-button {
+	font-weight: bold;
+	margin: 10px;
+}
+
+.portfolio-container {
+	margin-top: 40px;
+}
+
+.portfolio-container .card-img {
+	max-height: 200px;
+}
