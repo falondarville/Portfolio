@@ -1,3 +1,7 @@
+body {
+	background-color: #f7f7f7;
+}
+
 .jumbotron {
 	background-color: #98FB98;
 }
@@ -28,15 +32,44 @@
 	color: black;
 }
 
+.block-content {
+	background-color: #98FB98;
+	height: 80px;
+	width: 100%;
+	margin: 0 auto;
+}
+
 #repo-button {
 	font-weight: bold;
 	margin: 10px;
 }
 
-.portfolio-container {
+.portfolio-container, .portfolio-3-container {
 	margin-top: 40px;
 }
 
 .portfolio-container .card-img {
 	max-height: 200px;
+}
+
+.portfolio-3-container .card-img {
+	max-height: 300px;
+}
+
+.info-section {
+	background: white;
+	padding: 40px 80px 40px 80px;
+	margin-top: 40px;
+}
+
+#info-section-title {
+	padding-bottom: 10px;
+}
+
+footer {
+	text-align: center;
+	height: 60px;
+	background-color: #98FB98;
+	line-height: 60px;
+	margin-top: 40px;
 }
