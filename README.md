@@ -1,1 +1,1 @@
-This portfolio outlines my backstory, the technologies I work with, academic achievements, and blog posts I have written reagarding web development. 
+This portfolio outlines my backstory, the technologies I work with, academic achievements, and blog posts I have written regarding web development. 
