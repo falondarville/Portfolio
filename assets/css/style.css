@@ -53,16 +53,16 @@ body {
   padding-bottom: 10px;
 }
 
-.square-cards {
-  text-shadow: 1px 1px black;
-}
-
 .btn {
   text-shadow: none !important;
 }
 
 .blog-container {
   margin-top: 40px;
+}
+
+.blog-card {
+    box-shadow: 0 0 30px black;
 }
 
 #article-header {
