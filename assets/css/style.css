@@ -39,10 +39,6 @@ body {
   max-height: 200px;
 }
 
-.portfolio-3-container .card-img {
-  max-height: 300px;
-}
-
 .info-section {
   background: white;
   padding: 40px 80px 40px 80px;
@@ -62,7 +58,7 @@ body {
 }
 
 .blog-card {
-    box-shadow: 0 0 30px black;
+    box-shadow: 0 0 20px grey;
 }
 
 #article-header {
