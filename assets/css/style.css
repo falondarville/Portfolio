@@ -11,10 +11,16 @@ body {
   margin-bottom: 25px;
 }
 
-#blog-button {
+.blog-button {
   width: 140px;
   font-weight: bold;
-  margin-top: 30px;
+  margin-top: 10px;
+  background-color: white;
+  border-color: #fa4400;
+  color: #fa4400 !important;
+}
+
+.blog-button:hover {
   background-color: #fa4400;
   color: white !important;
 }
