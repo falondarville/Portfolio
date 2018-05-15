@@ -82,3 +82,8 @@ footer {
 .get-in-touch {
   margin-top: 40px;
 }
+
+#title-logo {
+  max-width: 400px;
+  margin-bottom: 30px;
+}
