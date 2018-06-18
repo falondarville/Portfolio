@@ -87,3 +87,9 @@ footer {
   max-width: 400px;
   margin-bottom: 30px;
 }
+
+@media screen and (max-width: 500px) {
+  #title-logo {
+    max-width: 350px;
+  }
+}
