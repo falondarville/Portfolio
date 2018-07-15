@@ -54,6 +54,7 @@ body {
 
 .btn {
   text-shadow: none !important;
+  margin-bottom: 4px;
 }
 
 .blog-container {
