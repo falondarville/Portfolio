@@ -35,6 +35,7 @@ body {
 #repo-button {
   font-weight: bold;
   margin: 10px;
+  margin-bottom: 4px;
 }
 
 .portfolio-container .card-img {
