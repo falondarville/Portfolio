@@ -28,6 +28,3 @@ This portfolio outlines my backstory, the technologies I work with, academic ach
 * Python
 
 If you want to get in touch, please feel free to do so through [LinkedIn](https://www.linkedin.com/in/falon-darville/)
-
-[See my portfolio here](https://falondarville.io/)
-
